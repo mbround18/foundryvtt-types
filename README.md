@@ -1,9 +1,8 @@
 # Foundry VTT Types
 
-Compiled types from FoundryVTT, working on a way to automate it but this should get you started. 
+Compiled types from FoundryVTT, working on a way to automate it but this should get you started.
 
 ## Installation
-
 
 ### NPM
 
@@ -23,8 +22,6 @@ After installation you have to add the following to your `tsconfig.json`
 
 ```json
 {
-    "types": [
-      "./node_modules/foundryvtt-types"
-    ],         
+  "types": ["./node_modules/foundryvtt-types"]
 }
 ```
