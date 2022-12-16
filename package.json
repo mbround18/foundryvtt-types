@@ -1,0 +1,18 @@
+{
+  "name": "foundryvtt-types",
+  "version": "0.0.2",
+  "description": "",
+  "types": "types.d.ts",
+  "files": [
+    "./types.d.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
