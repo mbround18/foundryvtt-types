@@ -2,7 +2,8 @@
   "name": "foundryvtt-types",
   "version": "0.0.4",
   "description": "",
-  "types": "types.d.ts",
+  "main": "./required.js",
+  "types": "./types.d.ts",
   "files": [
     "./types.d.ts"
   ],
