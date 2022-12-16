@@ -1,0 +1,7 @@
+*
+!package.json
+!tsconfig.json
+!yarn.lock
+!types.d.ts
+!.gitignore
+!README.md
